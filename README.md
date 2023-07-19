@@ -111,8 +111,9 @@ ng serve --open
 ## Terminal
 
 - create component `ng generate component name-component`
-- `ng generate component product-alerts`
 ```
+ng generate component product-alerts
+
 CREATE src/app/product-alerts/product-alerts.component.html (29 bytes)
 CREATE src/app/product-alerts/product-alerts.component.spec.ts (609 bytes)
 CREATE src/app/product-alerts/product-alerts.component.ts (233 bytes)
