@@ -21,12 +21,6 @@
 
 
 
-## Change log
-
-- [changelog](changelog.rst)
-
-
-
 ## Requeriments / Prerequisites
 
 🖥️ node -v
@@ -94,29 +88,6 @@ ng serve --open
 - ng serve
 - http://localhost:4200/
 
-
-## Llegenda
-
-X.Y.X
-
-```
-(X): canvi important de versió
-(Y): canvi menor de noves funcionalitats sota versió
-(Z): revisió, fix, doc, test
-```
-
-```
-feat: a new feature
-fix: a bug fix
-doc: changes to documentation
-style: formatting, missing semi colons, etc; no code change
-refactor: refactoring production code
-test: adding tests, refactoring test; no production code change
-chore: updating build tasks, package manager configs, etc; no production code change
-wip: work in progress
-clean: clean and delete code
-git: git tasks
-```
 
 
 ## Doc
