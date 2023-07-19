@@ -81,7 +81,6 @@
 - npm 9.8.0
 - Visual Studio Code 1.80.1
 - git version 2.38.0.windows.1
-- Postman v10.14.6
 - Microsoft Windows [Versión 10.0.19045.3208]
 
 
