@@ -37,10 +37,13 @@
 ### Adding navigation
 - https://angular.io/start/start-routing
 
+
 ### Associate a URL path with a component
 - https://angular.io/start/start-routing#associate-a-url-path-with-a-component
 
 
+### View product details
+- https://angular.io/start/start-routing#view-product-details
 
 
 
