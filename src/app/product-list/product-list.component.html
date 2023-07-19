@@ -1,26 +1,23 @@
 <h2>Products</h2>
 
 <div *ngFor="let product of products">
+  <h3>
+    <a [title]="product.name + ' details'">
+      {{ product.name }}
+    </a>
+  </h3>
 
-    <h3>
-        <a [title]="product.name + ' details'">
-            {{ product.name }}
-        </a>
-    </h3>
+  <div>
+    <strong>{{ product.price }}EU</strong>
 
-    <div>
-        <strong>{{ product.price }}EU</strong>
+    <p *ngIf="product.description">Description: {{ product.description }}</p>
+  </div>
 
-        <p *ngIf="product.description">
-            Description: {{ product.description }}
-        </p>
-    </div>
+  <button type="button" (click)="share()">Share</button>
 
-    <button type="button" (click)="share()">
-        Share
-    </button>
-
-    <app-product-alerts [product]="product">
-    </app-product-alerts>
-    <hr>
+  <app-product-alerts 
+    [product]="product" 
+    (notify)="onNotify()">
+  </app-product-alerts>
+  <hr />
 </div>

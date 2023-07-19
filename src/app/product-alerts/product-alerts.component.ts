@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { Product } from '../products'; //interface
 
 @Component({
@@ -9,5 +9,6 @@ import { Product } from '../products'; //interface
 export class ProductAlertsComponent {
 
   @Input() product: Product | undefined;
+  @Output() notify = new EventEmitter();
 
 }
