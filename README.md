@@ -36,6 +36,12 @@
 - **Create the cart view**
 - Set up the cart component
 - Display the cart items
+- **Retrieve shipping prices**
+- Configure AppModule to use HttpClient
+- Configure CartService to use HttpClient
+- Configure CartService to get shipping prices
+- **Create a shipping component**
+- Configuring the ShippingComponent to use CartService
 
 
 
@@ -124,15 +130,9 @@ CREATE src/app/product-alerts/product-alerts.component.ts (233 bytes)
 CREATE src/app/product-alerts/product-alerts.component.css (0 bytes)
 UPDATE src/app/app.module.ts (819 bytes)
 ```
-```
-ng generate component product-details
-
-CREATE src/app/product-details/product-details.component.html (30 bytes)
-CREATE src/app/product-details/product-details.component.spec.ts (616 bytes)
-CREATE src/app/product-details/product-details.component.ts (237 bytes)
-CREATE src/app/product-details/product-details.component.css (0 bytes)
-UPDATE src/app/app.module.ts (935 bytes)
-```
+- `ng generate component product-details`
+- `ng generate component cart`
+- `ng generate component shipping`
 
 - create a service `ng generate service name-service`
 ```
