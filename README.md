@@ -3,8 +3,8 @@
 1. [Getting started with Angular](#1-getting-started-with-angular)
 2. [Adding navigation](#2-adding-navigation)
 3. [Managing data](#3-managing-data)
-4. TODO: Using forms for user input
-5. TODO: Deploying an application
+4. [Using forms for user input](#4-using-forms-for-user-input)
+5. [Deploying an application](#5-deploying-an-application)
 
 
 
