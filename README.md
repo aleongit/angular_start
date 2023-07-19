@@ -3,25 +3,36 @@
 - Getting started with Angular
 
 
+
 ## Getting started with Angular
 - https://angular.io/start
 - https://angular.io/guide/setup-local
 
+
 ### Prerequisites
 - https://angular.io/start#prerequisites
 
+
 ### Take a tour of the example application
 - https://angular.io/start#take-a-tour-of-the-example-application
+
 
 ### Create the sample project
 - https://angular.io/start#create-the-sample-project
 - https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html
 
+
 ### Create the product list
 - https://angular.io/start#create-the-product-list
 
+
 ### Pass data to a child component
 - https://angular.io/start#pass-data-to-a-child-component
+
+
+### Pass data to a parent component
+- https://angular.io/start#pass-data-to-a-parent-component
+
 
 
 
@@ -43,6 +54,7 @@
 - git version 2.38.0.windows.1
 - Postman v10.14.6
 - Microsoft Windows [Versión 10.0.19045.3208]
+
 
 
 
@@ -78,6 +90,7 @@ ng serve --open
 - The --open (or just -o) option automatically opens your browser to http://localhost:4200/.
 
 
+
 ## Get Started
 
 - git clone https://github.com/aleongit/angular_start.git
@@ -91,6 +104,20 @@ ng serve --open
 - cd angular_start
 - ng serve
 - http://localhost:4200/
+
+
+
+## Terminal
+
+- create component `ng generate component name-component`
+- `ng generate component product-alerts`
+```
+CREATE src/app/product-alerts/product-alerts.component.html (29 bytes)
+CREATE src/app/product-alerts/product-alerts.component.spec.ts (609 bytes)
+CREATE src/app/product-alerts/product-alerts.component.ts (233 bytes)
+CREATE src/app/product-alerts/product-alerts.component.css (0 bytes)
+UPDATE src/app/app.module.ts (819 bytes)
+```
 
 
 

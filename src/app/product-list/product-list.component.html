@@ -8,12 +8,19 @@
         </a>
     </h3>
 
-    <p *ngIf="product.description">
-        Description: {{ product.description }}
-    </p>
+    <div>
+        <strong>{{ product.price }}EU</strong>
+
+        <p *ngIf="product.description">
+            Description: {{ product.description }}
+        </p>
+    </div>
 
     <button type="button" (click)="share()">
         Share
     </button>
 
+    <app-product-alerts [product]="product">
+    </app-product-alerts>
+    <hr>
 </div>
