@@ -20,6 +20,16 @@
 
 
 
+## Get Started
+
+- git clone https://github.com/aleongit/angular_start.git
+- cd angular_start
+- npm install
+- ng serve
+- http://localhost:4200/
+
+
+
 ## Dev environment
 
 - node v18.16.0
@@ -63,12 +73,6 @@ ng serve --open
 - The --open (or just -o) option automatically opens your browser to http://localhost:4200/.
 
 
-## Get Started
-
-- git clone https://github.com/aleongit/angular_start.git
-- cd angular_start
-- TODO:
-
 
 
 ## Run
@@ -76,6 +80,8 @@ ng serve --open
 - cd angular_start
 - ng serve
 - http://localhost:4200/
+
+
 
 
 ## Llegenda

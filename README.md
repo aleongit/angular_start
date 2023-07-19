@@ -45,6 +45,15 @@
 → 9.8.0
 
 
+## Get Started
+
+- git clone https://github.com/aleongit/angular_start.git
+- cd angular_start
+- npm install
+- ng serve
+- http://localhost:4200/
+
+
 
 ## Dev environment
 
@@ -88,14 +97,6 @@ cd angular_start
 ng serve --open
 ```
 - The --open (or just -o) option automatically opens your browser to http://localhost:4200/.
-
-
-
-## Get Started
-
-- git clone https://github.com/aleongit/angular_start.git
-- cd angular_start
-- TODO:
 
 
 
