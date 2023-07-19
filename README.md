@@ -30,8 +30,12 @@
 ## 3. Managing data
 - https://angular.io/start/start-data
 
-- Create the shopping cart service
+- **Create the shopping cart service**
 - Define a cart service
+- Use the cart service
+- **Create the cart view**
+- Set up the cart component
+- Display the cart items
 
 
 
@@ -130,6 +134,13 @@ CREATE src/app/product-details/product-details.component.css (0 bytes)
 UPDATE src/app/app.module.ts (935 bytes)
 ```
 
+- create a service `ng generate service name-service`
+```
+ng generate service cart
+
+CREATE src/app/cart.service.spec.ts (347 bytes)
+CREATE src/app/cart.service.ts (133 bytes)
+```
 
 
 ## Doc
