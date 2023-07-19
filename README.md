@@ -17,7 +17,11 @@
 - https://angular.io/start#create-the-sample-project
 - https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html
 
+### Create the product list
+- https://angular.io/start#create-the-product-list
 
+### Pass data to a child component
+- https://angular.io/start#pass-data-to-a-child-component
 
 
 
