@@ -37,6 +37,11 @@
 ### Adding navigation
 - https://angular.io/start/start-routing
 
+### Associate a URL path with a component
+- https://angular.io/start/start-routing#associate-a-url-path-with-a-component
+
+
+
 
 
 
@@ -47,6 +52,7 @@
 
 🖥️ npm -v
 → 9.8.0
+
 
 
 ## Get Started
@@ -123,6 +129,15 @@ CREATE src/app/product-alerts/product-alerts.component.spec.ts (609 bytes)
 CREATE src/app/product-alerts/product-alerts.component.ts (233 bytes)
 CREATE src/app/product-alerts/product-alerts.component.css (0 bytes)
 UPDATE src/app/app.module.ts (819 bytes)
+```
+```
+ng generate component product-details
+
+CREATE src/app/product-details/product-details.component.html (30 bytes)
+CREATE src/app/product-details/product-details.component.spec.ts (616 bytes)
+CREATE src/app/product-details/product-details.component.ts (237 bytes)
+CREATE src/app/product-details/product-details.component.css (0 bytes)
+UPDATE src/app/app.module.ts (935 bytes)
 ```
 
 
