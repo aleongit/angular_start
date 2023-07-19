@@ -34,6 +34,10 @@
 - https://angular.io/start#pass-data-to-a-parent-component
 
 
+### Adding navigation
+- https://angular.io/start/start-routing
+
+
 
 
 ## Requeriments / Prerequisites
