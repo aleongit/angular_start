@@ -2,7 +2,7 @@
 
 1. [Getting started with Angular](#1-getting-started-with-angular)
 2. [Adding navigation](#2-adding-navigation)
-3. TODO: Managing data
+3. [Managing data](#3-managing-data)
 4. TODO: Using forms for user input
 5. TODO: Deploying an application
 
@@ -42,6 +42,16 @@
 - Configure CartService to get shipping prices
 - **Create a shipping component**
 - Configuring the ShippingComponent to use CartService
+
+
+
+## 4. Using forms for user input
+- Define the checkout form model
+- Create the checkout form
+
+
+## 5. Deploying an application
+- TODO:
 
 
 
