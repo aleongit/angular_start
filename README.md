@@ -1,50 +1,37 @@
 ## Introduction
 
-- Getting started with Angular
+1. [Getting started with Angular](#1-getting-started-with-angular)
+2. [Adding navigation](#2-adding-navigation)
+3. TODO: Managing data
+4. TODO: Using forms for user input
+5. TODO: Deploying an application
 
 
 
-## Getting started with Angular
+## 1. Getting started with Angular
 - https://angular.io/start
 - https://angular.io/guide/setup-local
 
-
-### Prerequisites
-- https://angular.io/start#prerequisites
-
-
-### Take a tour of the example application
-- https://angular.io/start#take-a-tour-of-the-example-application
-
-
-### Create the sample project
-- https://angular.io/start#create-the-sample-project
-- https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html
+- Prerequisites
+- Take a tour of the example application
+- Create the sample project
+- Create the product list
+- Pass data to a child component
+- Pass data to a parent component
 
 
-### Create the product list
-- https://angular.io/start#create-the-product-list
-
-
-### Pass data to a child component
-- https://angular.io/start#pass-data-to-a-child-component
-
-
-### Pass data to a parent component
-- https://angular.io/start#pass-data-to-a-parent-component
-
-
-### Adding navigation
+## 2. Adding navigation
 - https://angular.io/start/start-routing
 
+- Associate a URL path with a component
+- View product details
 
-### Associate a URL path with a component
-- https://angular.io/start/start-routing#associate-a-url-path-with-a-component
 
+## 3. Managing data
+- https://angular.io/start/start-data
 
-### View product details
-- https://angular.io/start/start-routing#view-product-details
-
+- Create the shopping cart service
+- Define a cart service
 
 
 
