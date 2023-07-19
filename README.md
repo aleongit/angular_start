@@ -1,6 +1,23 @@
 ## Introduction
 
-- TODO:
+- Getting started with Angular
+
+
+## Getting started with Angular
+- https://angular.io/start
+- https://angular.io/guide/setup-local
+
+### Prerequisites
+- https://angular.io/start#prerequisites
+
+### Take a tour of the example application
+- https://angular.io/start#take-a-tour-of-the-example-application
+
+### Create the sample project
+- https://angular.io/start#create-the-sample-project
+- https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html
+
+
 
 
 
